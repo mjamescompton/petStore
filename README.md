@@ -1,7 +1,12 @@
 # petshop
 
 ## Project setup
+
+Install Node and npm
+
+
 ```
+npm install -g @vue/cli-service-global
 npm install
 ```
 
