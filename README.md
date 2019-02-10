@@ -1,4 +1,4 @@
-# petshop_3
+# petshop
 
 ## Project setup
 ```
